@@ -81,7 +81,15 @@ body{
   color: purple;
 }
 /*Dragon Picture*/
-.page img {
+.cover img {
     max-width: 113%;
     height: 107%;
+}
+
+.innerCov1 img {
+  max-width: 110%;
+  height: 103%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
