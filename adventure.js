@@ -1,6 +1,6 @@
 $( document ).ready(function() {
   $("#flipbook").turn({
-    width: 985,
+    width: 982,
     height: 360,
   });
 });
